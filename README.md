@@ -1,1 +1,1 @@
-# Distributed Threa pool in Multitheading System
+# Distributed Thread pool in Multitheading System
